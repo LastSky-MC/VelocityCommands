@@ -1,0 +1,8 @@
+name: VelocityCommands
+main: fr.skah.spigot.SpigotCommands
+version: 0.1-SNAPSHOT
+api-version: 1.13
+author: vSKAH
+commands:
+  execute:
+    description: Execute commands on proxy.

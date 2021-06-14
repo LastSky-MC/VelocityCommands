@@ -1,0 +1,5 @@
+fr\skah\spigot\SpigotCommands.class
+velocity-plugin.json
+fr\skah\spigot\commands\ExecuteCommand.class
+fr\skah\velocity\VelocityCommands.class
+fr\skah\velocity\listeners\PluginMessages.class
